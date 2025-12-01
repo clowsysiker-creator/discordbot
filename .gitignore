@@ -1,0 +1,4 @@
+.env
+config.json
+token.txt
+node_modules/
